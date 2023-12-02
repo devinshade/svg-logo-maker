@@ -14,7 +14,7 @@
   
   ## Installation
   
-  Type npm install in command-line of the folder holding the .js file, in this case, utils.
+  Type npm install then npm i inquirer in command-line of the folder holding the .js file, in this case, Develop.
   
   ## Usage
   
